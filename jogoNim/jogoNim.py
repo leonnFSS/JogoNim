@@ -267,7 +267,7 @@ def inicio():
 			elif escolha == 5:
 					quit()
 			else:
-					print("Você deve escolher entre as opções 1, 2, 3, 4 ou 5 apenas.")
+					print("\n\tAVISO:\nVocê deve escolher entre as opções 1, 2, 3, 4 ou 5 apenas.\n\n")
 
 
 inicio()
